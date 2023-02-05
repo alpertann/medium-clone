@@ -1,4 +1,3 @@
-# medium-clone
 # Bootstrap Medium Clone
 This UI fully cloned by myself from scratch.
 
